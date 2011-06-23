@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@domain_name</string>
+	<key>name</key>
+	<string>@domain_name - Will output the domain name of the current site (ie. staceyapp.com).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>8B1E164D-0169-46CD-B687-B98162D46E1D</string>
+</dict>
+</plist>

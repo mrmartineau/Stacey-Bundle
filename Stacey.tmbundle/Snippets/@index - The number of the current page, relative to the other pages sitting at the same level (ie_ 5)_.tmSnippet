@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@index</string>
+	<key>name</key>
+	<string>@index - The number of the current page, relative to the other pages sitting at the same level (ie. 5).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>53FD6446-20E1-4349-829D-F5C85EB69C9D</string>
+</dict>
+</plist>

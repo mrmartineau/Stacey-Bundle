@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@children_count</string>
+	<key>name</key>
+	<string>@children_count - The number of children below this page (ie. 12).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>45AB98E7-47BD-4C22-87D0-B9455DF7C852</string>
+</dict>
+</plist>

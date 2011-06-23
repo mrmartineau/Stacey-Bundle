@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@thumb</string>
+	<key>name</key>
+	<string>@thumb - Outputs the relative url to the thumbnail for this page (if one exists).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>5A73E3ED-006B-48FE-A704-6B17654303D0</string>
+</dict>
+</plist>

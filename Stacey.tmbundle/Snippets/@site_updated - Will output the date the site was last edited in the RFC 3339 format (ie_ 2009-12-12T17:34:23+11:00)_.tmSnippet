@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@site_updated</string>
+	<key>name</key>
+	<string>@site_updated - Will output the date the site was last edited in the RFC 3339 format (ie. 2009-12-12T17:34:23+11:00).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>D0A04C98-740B-4BE1-BDC5-CBA6E976BB59</string>
+</dict>
+</plist>

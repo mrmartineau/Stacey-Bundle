@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$previous_sibling</string>
+	<key>name</key>
+	<string>$previous_sibling - Constructs a reference to the previous page sitting at the same level as the current page (in reverse-numeric order).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>09F4FBFA-E9A4-46A1-89FB-33D91562D52B</string>
+</dict>
+</plist>

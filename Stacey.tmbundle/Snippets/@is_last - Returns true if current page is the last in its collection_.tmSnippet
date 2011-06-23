@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@is_last</string>
+	<key>name</key>
+	<string>@is_last - Returns true if current page is the last in its collection.</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>BB3FDA40-D179-411B-9152-ECA8E386DE5D</string>
+</dict>
+</plist>

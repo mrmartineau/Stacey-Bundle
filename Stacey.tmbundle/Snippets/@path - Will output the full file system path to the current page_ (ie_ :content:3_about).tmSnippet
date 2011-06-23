@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@path</string>
+	<key>name</key>
+	<string>@path - Will output the full file system path to the current page. (ie. /content/3.about)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>C691F0C0-A532-4F66-979E-25907819AAB2</string>
+</dict>
+</plist>

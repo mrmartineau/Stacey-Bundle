@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$root</string>
+	<key>name</key>
+	<string>$root - Will list each top-level page within /content.</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>ECB15E94-1CBE-4D53-8CEC-0759B9C27F55</string>
+</dict>
+</plist>

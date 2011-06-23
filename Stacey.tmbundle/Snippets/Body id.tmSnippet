@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;body if @slug do id="@slug" endif if !@slug do id="${1:home}" endif&gt;</string>
+	<key>name</key>
+	<string>Body id</string>
+	<key>uuid</key>
+	<string>62C89119-06ED-4B11-B522-02237C7E7137</string>
+</dict>
+</plist>

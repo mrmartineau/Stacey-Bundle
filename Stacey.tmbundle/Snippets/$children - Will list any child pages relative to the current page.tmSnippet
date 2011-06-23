@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$children</string>
+	<key>name</key>
+	<string>$children - Will list any child pages relative to the current page</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>B480C076-5915-44B2-88BE-10FF3A88D29E</string>
+</dict>
+</plist>

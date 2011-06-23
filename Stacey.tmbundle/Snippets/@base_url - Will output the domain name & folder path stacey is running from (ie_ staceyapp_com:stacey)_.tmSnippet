@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@base_url</string>
+	<key>name</key>
+	<string>@base_url - Will output the domain name &amp; folder path stacey is running from (ie. staceyapp.com/stacey).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>350EE842-D20D-4757-B6BC-225FE446A0C1</string>
+</dict>
+</plist>

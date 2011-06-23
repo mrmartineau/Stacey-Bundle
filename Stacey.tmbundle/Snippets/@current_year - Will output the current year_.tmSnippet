@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@current_year</string>
+	<key>name</key>
+	<string>@current_year - Will output the current year.</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>102D0D61-BB0B-4EAF-8655-8269F1612584</string>
+</dict>
+</plist>

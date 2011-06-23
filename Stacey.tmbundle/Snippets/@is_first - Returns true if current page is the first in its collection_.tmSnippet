@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@is_first</string>
+	<key>name</key>
+	<string>@is_first - Returns true if current page is the first in its collection.</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>6ABC8D13-3976-4577-BBA7-23608C43351C</string>
+</dict>
+</plist>

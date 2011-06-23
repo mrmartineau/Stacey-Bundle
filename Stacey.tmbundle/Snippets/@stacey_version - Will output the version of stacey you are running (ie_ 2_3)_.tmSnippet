@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@stacey_version</string>
+	<key>name</key>
+	<string>@stacey_version - Will output the version of stacey you are running (ie. 2.3).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>98CCCB66-9F30-4192-AF53-C76CF273B8E7</string>
+</dict>
+</plist>

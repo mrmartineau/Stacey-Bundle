@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$siblings</string>
+	<key>name</key>
+	<string>$siblings - Will list any pages sitting at the same level as the current page. This collection does not include the current page.</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>E72FB929-43BD-47E8-821D-731F4715E782</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@permalink</string>
+	<key>name</key>
+	<string>@permalink - Outputs the absolute url path of the current page (ie. projects/project-1).</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>C27C37AA-8F35-45AD-A004-EE843A6FE7B3</string>
+</dict>
+</plist>
